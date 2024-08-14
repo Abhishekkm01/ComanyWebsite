@@ -1,0 +1,67 @@
+.career-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .career-title {
+    font-size: 2.5rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .career-intro {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  .career-opportunities-title {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .career-opportunities-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .career-opportunity {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  
+  .career-opportunity h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #007BFF;
+  }
+  
+  .career-opportunity p {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .career-apply {
+    font-size: 1.2rem;
+    color: #333;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .career-apply a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .career-apply a:hover {
+    text-decoration: underline;
+  }
+  
