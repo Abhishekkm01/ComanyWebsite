@@ -49,7 +49,7 @@ const Home = () => {
           <div className="project-card">
             {/* <img src="../Assets/rummy-game.png" alt="Rummy Game" className="project-image" /> */}
             <h3>Rummy Game</h3>
-            <p><strong>Overview:</strong> A real-time multiplayer Rummy game that offers a seamless and engaging experience for players. Built with advanced algorithms to ensure fair play, the game supports various Rummy formats.</p>
+            <p><strong>Overview:</strong> A real-time multiplayer Rummy game that offers a seamless and engaging experience for players. Built with advanced algorithms to ensure fair play, the game supports various Rummy formats.allowing players to choose their preferred style and compete in dynamic matches</p>
             <p><strong>Technologies Used:</strong> Node.js, Socket.io, React.js, MongoDB, AWS.</p>
             <ul>
               <li style={{listStyle:"none"}}>Real-time gameplay with smooth animations.</li>
@@ -69,7 +69,7 @@ const Home = () => {
         <div className="testimonials">
           <blockquote>
             "LogicBunny Technology exceeded our expectations with their innovative solutions and exceptional service."
-            <footer>- Client Name</footer>
+            <footer> ~Sandeep</footer>
           </blockquote>
           {/* Add more testimonials here */}
         </div>
